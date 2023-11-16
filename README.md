@@ -1,2 +1,30 @@
 # xikaplay
-The  player base mpv, the UI is electron and react.
+
+An Electron Player with React and libmpv
+
+## Project Setup
+
+### Install
+
+```bash
+$ yarn
+```
+
+### Development
+
+```bash
+$ yarn dev
+```
+
+### Build
+
+```bash
+# For windows
+$ yarn build:win
+
+# For macOS
+$ yarn build:mac
+
+# For Linux
+$ yarn build:linux
+```
