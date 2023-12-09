@@ -1,6 +1,6 @@
 # xikaplay
 
-An Electron Player with React and libmpv
+An Electron Player with React and libmpv。公司的内嵌播放器，开发模型验证。
 
 ## Project Setup
 
