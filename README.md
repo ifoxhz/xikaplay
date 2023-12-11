@@ -31,8 +31,8 @@ $ yarn build:mac
 
 # For Linux
 $ yarn build:linux
+<img width="932" alt="屏幕截图 2023-12-11 185918" src="https://github.com/ifoxhz/xikaplay/assets/8155721/de0d1d07-5fe5-4c42-a5a0-70865e11f1d4">
 
-<img width="932" alt="image" src="https://github.com/ifoxhz/xikaplay/assets/8155721/4bfdb87f-ec00-4815-ab7e-97a628742db1">
 
 
 
