@@ -32,6 +32,7 @@ $ yarn build:mac
 # For Linux
 $ yarn build:linux
 
-<img width="932" alt="image" src="https://github.com/ifoxhz/xikaplay/assets/8155721/7a53c1e2-2e75-4668-9d20-7a89996a4fa9">
+<img width="932" alt="image" src="https://github.com/ifoxhz/xikaplay/assets/8155721/4bfdb87f-ec00-4815-ab7e-97a628742db1">
+
 
 
